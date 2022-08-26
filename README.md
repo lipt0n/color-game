@@ -31,7 +31,7 @@ Code is quite simple and it should be easy to follow,
 
 `color_game/main.py` contain curces, main game loop and key handling
 
-Also, I there are vscode settings in this repo - so you should be able to debug code without any extra configuration (just choose proper venv)
+Also, there are vscode settings in this repo - so you should be able to debug code without any extra configuration (just choose proper venv)
 
 
 I also add some simple tests (please don't get excited, I said simple)
