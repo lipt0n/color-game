@@ -1,0 +1,27 @@
+{
+    "include": [
+      "color_game",
+      "tests"
+    ],
+
+    "ignore": [
+      "python-packages"
+    ],
+
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+    "reportUnknownMemberType": true,
+
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Linux",
+
+    "executionEnvironments": [
+
+      {
+        "root": "color_game"
+      },
+      {
+        "root": "tests"
+      }
+    ]
+}
